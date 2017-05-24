@@ -4,7 +4,6 @@
 2. open in cmd prompt and run npm install
 3. ionic serve (to run in browser) or
 to run in real device:
-
---> ionic cordova platform add <platform_name> 
---> cordova build <platform_name> and
---> cordova run <platform_name>
+1. ionic cordova platform add <platform_name> 
+2. cordova build <platform_name> and
+3. cordova run <platform_name>
